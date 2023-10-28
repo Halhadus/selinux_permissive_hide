@@ -16,7 +16,9 @@ Stable release:
 2. Magisk -> Modules + Downloads/selinux_permissive_hide.zip -> Reboot
 
 Master branch:
-1. git clone https://github.com/evdenis/selinux_permissive_hide
-2. cd selinux_permissive_hide
-3. make install
+```
+git clone https://github.com/mrenesshs/selinux_permissive_hide
+cd selinux_permissive_hide
+make install
+```
    
