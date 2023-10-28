@@ -14,11 +14,8 @@ jobs:
     steps:
     - uses: actions/checkout@v3
 
-    - name: configure
-      run: ./configure
-
     - name: Install dependencies
-      run: make zip
+      run: apt install zip
 
     - name: Run check
       run: make
