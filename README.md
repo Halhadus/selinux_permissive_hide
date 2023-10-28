@@ -1,6 +1,6 @@
 # SELinux Permissive & Hide
 
-This module switches SELinux to permissive mode during boot process and hides the change.
+This module switches SELinux to permissive mode during boot process and hides the change to protect SafetyNet.
 
 This module intentionally lowers security settings of your
 phone. Please, don't use it if you don't know what you are doing.
